@@ -1,0 +1,4 @@
+SELECT * 
+FROM movies
+ORDER BY Title ASC
+LIMIT 5;
