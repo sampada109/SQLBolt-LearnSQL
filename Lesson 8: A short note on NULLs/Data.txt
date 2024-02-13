@@ -1,0 +1,34 @@
+There are 2 tables
+1 - Buildings
+2 - Employees
+
+
+
+# Table: Buildings (Read-Only)
+
+Building_name______Capacity
+1e__________________24
+1w__________________32
+2e__________________16
+2w__________________20
+
+
+
+# Table: Employees (Read-Only)
+
+Role_____________Name________________Building________Years_employed
+Engineer_________Becky A.____________1e______________4
+Engineer_________Dan B.______________1e______________2
+Engineer_________Sharon F.___________1e______________6
+Engineer_________Dan M.______________1e______________4
+Engineer_________Malcom S.___________1e______________1
+Artist___________Tylar S.____________2w______________2
+Artist___________Sherman D.__________2w______________8
+Artist___________Jakob J.____________2w______________6
+Artist___________Lillia A.___________2w______________7
+Artist___________Brandon J.__________2w______________7
+Manager__________Scott K.____________1e______________9
+Manager__________Shirlee M.__________1e______________3
+Manager__________Daria O.____________2w______________6
+Engineer_________Yancy I.____________________________0
+Artist___________Oliver P.___________________________0
